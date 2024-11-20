@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420248132489",
+    "project_id": "examenm7uf1",
+    "storage_bucket": "examenm7uf1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420248132489:android:dd83275860890551d51f58",
+        "android_client_info": {
+          "package_name": "com.ExamenAlejandro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpF8P9ZXJ7C_ZK0-dkBOTILjykcDoakmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
